@@ -1,0 +1,103 @@
+{
+  "updated": "2026-11-24",
+  "map": {
+    "source": "OpenStreetMap via Overpass API",
+    "license": "ODbL",
+    "attribution": "© OpenStreetMap contributors",
+    "url": "https://www.openstreetmap.org/copyright",
+    "features": "Road centre lines, building footprints, mapped parks and water polygons",
+    "interpretation": "Road widths use road-class defaults; most building heights are inferred from levels or a default. Facades and tree planting are artistic approximations, not surveys."
+  },
+  "home": {
+    "name": "Mythreyi Naimisha",
+    "lat": 12.9453151,
+    "lon": 77.6034482,
+    "address": "Municipal No. 15, Bannerghatta Road, Lakkasandra, Bengaluru",
+    "source": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bae15ca0bbe3289:0x25a1f46e176cb831",
+    "architecture": "Frontage colors and motifs use the supplied photo. User specifies an approximately seven-storey apartment, with the four entrances and middle-left grass verandah only at ground level. From the right-side lane, turn left; their flat is top-left from that viewpoint. Dimensions, unseen upper-floor arrangement, and local gameplay placement are artistic approximations, not surveyed reconstruction.",
+    "storeys": 7,
+    "ground_floor_layout_source": "User description and correction, 2026-11-24"
+  },
+  "office": {
+    "name": "Grasim / Linen Club, The Work Address — Kalpana",
+    "lat": 12.9342884,
+    "lon": 77.6295662,
+    "address": "2nd floor, No. 640, 80 Feet Road / 12th Main Road, 4th Block, Maharaja Signal, Koramangala",
+    "sources": [
+      "https://www.jayashree-grasim.com/contact-us/",
+      "https://www.theworkaddress.com/locations/koramangala/the-work-address-kalpana"
+    ],
+    "architecture": "Based on supplied first-day photos, official address and Google Maps exterior reference: framed reflective glass, narrow brown vertical facade fins, gray stone cladding, projecting canopy and security booth. Dimensions and side elevation are artistic approximations."
+  },
+  "pool": {
+    "name": "Ray Center, Wilson Garden",
+    "lat": 12.9457494,
+    "lon": 77.601697,
+    "source": "https://www.raycenter.in/contact.html",
+    "status": "Candidate only: proximity fits user's account; not confirmed as their pool."
+  },
+  "route": {
+    "status": "Plausible connection through mapped roads, not a record of the couple's actual route. No turn-restriction or live navigation guarantees.",
+    "roads": [
+      "Bannerghatta Road",
+      "New MICO Link Road",
+      "Bazaar Street",
+      "Koramangala Road",
+      "1st Cross Road",
+      "1st Main Road",
+      "5th Cross Road",
+      "18th Main Road",
+      "17th E Main Road",
+      "6th Cross Road",
+      "Mahayogi Vemana Road",
+      "80 Feet Road",
+      "12th Main Road"
+    ]
+  },
+  "water": {
+    "name": "Byrasandra Lake",
+    "status": "Actual surrounding map feature; not claimed as a memory stop or a lake on their commute."
+  },
+  "unverified_stops": [
+    "Coconut vendor before the Ganapathi Road turn",
+    "Mech Momo",
+    "Nail studio",
+    "Falooda stall",
+    "Nepali restaurant",
+    "Stand-up venue",
+    "Cinema"
+  ],
+  "unverified_stop_placement": "Placed approximately for storytelling. Restaurant appearance uses supplied photos; exact restaurant location is unknown.",
+  "visual_references": [
+    {
+      "type": "Google Maps Street View",
+      "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=xG0996yMRyLkO0CQb6ClAg&heading=220.69&pitch=0",
+      "area": "Near The Work Address — Kalpana / 5th Cross Road, Koramangala",
+      "imagery_date": "March 2026",
+      "inspected": "2026-11-24",
+      "observations": [
+        "Mature broad tree canopy",
+        "Mixed low-rise and mid-rise street frontage",
+        "Balcony rails, grilled windows and shallow shop awnings",
+        "Parked scooters, autos and cars",
+        "Overhead utility wires and irregular concrete street edges"
+      ],
+      "interpretation": "Visual inspiration for the neighborhood. Not a surveyed reconstruction or evidence of the couple’s exact historical commute."
+    },
+    {
+      "type": "Driving video",
+      "url": "https://www.youtube.com/watch?v=E1v86M7s3Uo",
+      "creator": "Bangalore City Drives",
+      "year": 2022,
+      "area": "Koramangala 80 Feet Road and 5th Cross",
+      "observations": [
+        "Large roadside tree canopy",
+        "Broad roadway and concrete barriers",
+        "Black-white barriers and yellow-white curb markings"
+      ],
+      "interpretation": "Reference for colors, proportions and streetscape feel; not a historical route recording for this couple."
+    }
+  ],
+  "asset_credits": "asset-credits.json records downloaded Poly Haven assets and CC0 provenance. The HDRI is a lighting reference captured outside Bangalore, not a Bangalore panorama.",
+  "rebuild_note": "Run blender/enhance_office.py after blender/build_landmarks.py: the main landmark script emits a simpler office and the enhancement pass replaces it with the detailed facade."
+}

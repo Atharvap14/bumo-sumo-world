@@ -1,0 +1,15 @@
+{
+  "generator": "built-in ImageGen",
+  "assets": [
+    {
+      "src": "title-street-v1.png",
+      "brief": "Wide painted anime/gouache Bangalore street at blue hour, left dark teal rain-tree space for title, right mint and terracotta shops, pink bougainvillea, warm windows and fairy lights, empty foreground paving; no characters, text or UI.",
+      "original": "/Users/atharvapandey/.codex/generated_images/01a20dce-dad6-7143-9571-eaa66c295234/exec-e8cbe632-b24d-467b-b59c-51599f5f6675.png"
+    },
+    {
+      "src": "collectibles-v1.png",
+      "brief": "Transparent painted game collectible 2x2 atlas: yellow scooty and green helmet; green coconut with straw; momos and red chutney; ruby heart with two ivory horns. Ink edges, gold teal accents.",
+      "original": "/Users/atharvapandey/.codex/generated_images/01a20dce-dad6-7143-9571-eaa66c295234/exec-9613949a-3034-4573-bf85-c3746acc496c.png"
+    }
+  ]
+}

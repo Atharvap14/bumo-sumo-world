@@ -1,0 +1,533 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "memory-01",
+      "type": "image",
+      "src": "assets/memories/image-01.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.16 (1).jpeg",
+      "bytes": 80865,
+      "sha256": "275f8f25f3100559324867155b8e270132fc47920ae078a9391987afa686813e",
+      "collection": "evening",
+      "alt": "Aadhya showing her nail extensions"
+    },
+    {
+      "id": "memory-02",
+      "type": "image",
+      "src": "assets/memories/image-02.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.16 (2).jpeg",
+      "bytes": 221093,
+      "sha256": "f06b0dab1d1ba4e0976acd4b2383105aa02e2a098ad10680238aebb6ad9171bf",
+      "collection": "waiwai",
+      "alt": "Wai Wai dates · photo memory"
+    },
+    {
+      "id": "memory-03",
+      "type": "image",
+      "src": "assets/memories/image-03.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.16 (3).jpeg",
+      "bytes": 226069,
+      "sha256": "576ceddcc9d8222b44f9032b1ce9388a7cc2aaf54684f21bce4cd6ad1b58bb16",
+      "collection": "waiwai",
+      "alt": "Wai Wai dates · photo memory"
+    },
+    {
+      "id": "memory-04",
+      "type": "image",
+      "src": "assets/memories/image-04.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.16.jpeg",
+      "bytes": 204139,
+      "sha256": "18072676266b910a830261d153bba5d06c088b4fa733c9e87ae35a78d5cb4e5b",
+      "collection": "waiwai",
+      "alt": "Wai Wai dates · photo memory"
+    },
+    {
+      "id": "memory-05",
+      "type": "image",
+      "src": "assets/memories/image-05.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.17 (1).jpeg",
+      "bytes": 228035,
+      "sha256": "55f0e928587751d1c70d0a4c1c8547a4f68cd6cfca76fba745dcfa9492942942",
+      "collection": "sleepy",
+      "alt": "Five more minutes · photo memory"
+    },
+    {
+      "id": "memory-06",
+      "type": "image",
+      "src": "assets/memories/image-06.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.17 (2).jpeg",
+      "bytes": 94529,
+      "sha256": "5b7bea17904e3b239858adc820577964bc8152e6964987032c30d69b2fb9b94d",
+      "collection": "fisheye",
+      "alt": "Funny top-down fisheye photo of Aadhya"
+    },
+    {
+      "id": "memory-07",
+      "type": "image",
+      "src": "assets/memories/image-07.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.17.jpeg",
+      "bytes": 76975,
+      "sha256": "a8a6ca0f69e96e066c4bba097a9bd31e2217f37623b025ccac22ad72b2f1f8c4",
+      "collection": "fisheye",
+      "alt": "Funny top-down fisheye photo of Aadhya"
+    },
+    {
+      "id": "memory-08",
+      "type": "image",
+      "src": "assets/memories/image-08.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.18.jpeg",
+      "bytes": 174520,
+      "sha256": "456ee1afddd656119afed557876f507ac3990980bdac362910665b2d4823df49",
+      "collection": "sleepy",
+      "alt": "Five more minutes · photo memory"
+    },
+    {
+      "id": "memory-09",
+      "type": "image",
+      "src": "assets/memories/image-09.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.33 (1).jpeg",
+      "bytes": 251965,
+      "sha256": "475824d9dde474ee3f6c9c22c2e4832a22acc6d9a275300d8fd19ea2ae298ffc",
+      "collection": "helmet",
+      "alt": "That little green helmet · photo memory"
+    },
+    {
+      "id": "memory-10",
+      "type": "image",
+      "src": "assets/memories/image-10.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.33 (2).jpeg",
+      "bytes": 264381,
+      "sha256": "611bc84b22e7e8c46a9a1e164d014efca4ab003593af4b9b47ca95c7bb18b583",
+      "collection": "helmet",
+      "alt": "That little green helmet · photo memory"
+    },
+    {
+      "id": "memory-11",
+      "type": "image",
+      "src": "assets/memories/image-11.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.33.jpeg",
+      "bytes": 251523,
+      "sha256": "c16954241e26789f7d96a16931f446f7ae842682a8311a02a6710db5c2aaff45",
+      "collection": "together",
+      "alt": "Just us · photo memory"
+    },
+    {
+      "id": "memory-12",
+      "type": "image",
+      "src": "assets/memories/image-12.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.34 (1).jpeg",
+      "bytes": 179527,
+      "sha256": "043ffa180dca1ac7dbb044723b618b093caa84846511c32b7a0c9d79d3592e71",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-13",
+      "type": "image",
+      "src": "assets/memories/image-13.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.34 (2).jpeg",
+      "bytes": 258602,
+      "sha256": "881752216d66d5d351235de29e5613750e64fc8a976d5d2f3880847f8eba45db",
+      "collection": "together",
+      "alt": "Just us · photo memory"
+    },
+    {
+      "id": "memory-14",
+      "type": "image",
+      "src": "assets/memories/image-14.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.34.jpeg",
+      "bytes": 249770,
+      "sha256": "a90c48bda8acaedd9627c3b5636dbab0fdf688aedff59dc8b2b79a3ace605fc2",
+      "collection": "together",
+      "alt": "Just us · photo memory"
+    },
+    {
+      "id": "memory-15",
+      "type": "image",
+      "src": "assets/memories/image-15.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.35 (1).jpeg",
+      "bytes": 148408,
+      "sha256": "0a2263aeeb244b839eceea769dd0aa2e16a24cacff3a1d90fc9f3f2b9d5dbae2",
+      "collection": "auto",
+      "alt": "Riding around together in an auto-rickshaw"
+    },
+    {
+      "id": "memory-16",
+      "type": "image",
+      "src": "assets/memories/image-16.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.35 (2).jpeg",
+      "bytes": 184311,
+      "sha256": "39a1589f5573d9739dd72e7dcbee9891e504f9d724ce88795d4e93a16262fd57",
+      "collection": "auto",
+      "alt": "Riding around together in an auto-rickshaw"
+    },
+    {
+      "id": "memory-17",
+      "type": "image",
+      "src": "assets/memories/image-17.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.35.jpeg",
+      "bytes": 160563,
+      "sha256": "35afe9c00825a67860caac528ae2d9905ca42e9912a54c980e4024b6c7a26adb",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-18",
+      "type": "image",
+      "src": "assets/memories/image-18.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.36 (1).jpeg",
+      "bytes": 163937,
+      "sha256": "fcbeb43fb9e421afc8e1379e5ef8c00361d5f39fd035601f32fdaf934b243d46",
+      "collection": "auto",
+      "alt": "Riding around together in an auto-rickshaw"
+    },
+    {
+      "id": "memory-19",
+      "type": "image",
+      "src": "assets/memories/image-19.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.36 (2).jpeg",
+      "bytes": 161166,
+      "sha256": "ebb2d09836d2a14bc7d621cbe88769c341ffdd074c614f403e146d697779fca7",
+      "collection": "auto",
+      "alt": "Riding around together in an auto-rickshaw"
+    },
+    {
+      "id": "memory-20",
+      "type": "image",
+      "src": "assets/memories/image-20.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.36.jpeg",
+      "bytes": 147609,
+      "sha256": "9f2d98bdf60824c59f0b6d70f715021f2835ec5b06a406cfa83419b710ac163f",
+      "collection": "auto",
+      "alt": "Riding around together in an auto-rickshaw"
+    },
+    {
+      "id": "memory-21",
+      "type": "image",
+      "src": "assets/memories/image-21.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.37 (1).jpeg",
+      "bytes": 307623,
+      "sha256": "aa3424669b8d3d65c8758daf1f020eddf7d9a19f1ffc060a3f7d295cd66b2610",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-22",
+      "type": "image",
+      "src": "assets/memories/image-22.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.37 (2).jpeg",
+      "bytes": 322332,
+      "sha256": "126fc012b623b2a9cb851011b1507f62d2380d55ae23455ba81b13901e2b65d5",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-23",
+      "type": "image",
+      "src": "assets/memories/image-23.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.37 (3).jpeg",
+      "bytes": 215171,
+      "sha256": "4e461ef623b604439a84fb4d570a24068e9a364b37fafae2cad17bf1919d070e",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-24",
+      "type": "image",
+      "src": "assets/memories/image-24.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.37.jpeg",
+      "bytes": 322705,
+      "sha256": "9cee11e342c07a8310baf35f85bad002dab6aab1ea347e2d6cae129d31b386a4",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-25",
+      "type": "image",
+      "src": "assets/memories/image-25.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.38 (1).jpeg",
+      "bytes": 152526,
+      "sha256": "154d258077b3f2ee9fa4bb75d6ad6c796fc1fc0c76456819eb8a21b34d6cff2b",
+      "collection": "evening",
+      "alt": "Our evening detours · photo memory"
+    },
+    {
+      "id": "memory-26",
+      "type": "image",
+      "src": "assets/memories/image-26.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.38 (2).jpeg",
+      "bytes": 365988,
+      "sha256": "5f956814c00aab839b4925ac3d7ef09d54c9643c10599c5a7a50def1e4141863",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-27",
+      "type": "image",
+      "src": "assets/memories/image-27.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.38.jpeg",
+      "bytes": 352934,
+      "sha256": "8d6a1a8f4bd8364a15a8647132afa4a2282aae22a0b91d21fa24fa6251fc9c91",
+      "collection": "office",
+      "alt": "Your first day · photo memory"
+    },
+    {
+      "id": "memory-28",
+      "type": "image",
+      "src": "assets/memories/image-28.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.39 (1).jpeg",
+      "bytes": 76345,
+      "sha256": "9e1ab91442f7dccb335962d911cbb64610bfdb8f2f3c8d4de45f42a96fba2085",
+      "collection": "evening",
+      "alt": "Our evening detours · photo memory"
+    },
+    {
+      "id": "memory-29",
+      "type": "image",
+      "src": "assets/memories/image-29.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.39 (2).jpeg",
+      "bytes": 91270,
+      "sha256": "c3ae9961781bf76b45f856dc55c99b39ad66bc043565e8136ceb19081076f7c4",
+      "collection": "fisheye",
+      "alt": "Funny top-down fisheye photo of Aadhya"
+    },
+    {
+      "id": "memory-30",
+      "type": "image",
+      "src": "assets/memories/image-30.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.39 (3).jpeg",
+      "bytes": 69734,
+      "sha256": "719bbe1609ae0b30fc8b7fbc01e26fb0102e23ba80f2ed57e6dc413303f8ac42",
+      "collection": "fisheye",
+      "alt": "Funny top-down fisheye photo of Aadhya"
+    },
+    {
+      "id": "memory-31",
+      "type": "image",
+      "src": "assets/memories/image-31.jpeg",
+      "original_filename": "WhatsApp Image 2026-11-24 at 21.29.39.jpeg",
+      "bytes": 91297,
+      "sha256": "717b40b7c05717f660c37e375876a80f363d95133735f56d162921eb3c544402",
+      "collection": "evening",
+      "alt": "Our evening detours · photo memory"
+    },
+    {
+      "id": "memory-32",
+      "type": "video",
+      "src": "assets/memories/video-32.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.15 (1).mp4",
+      "bytes": 2942253,
+      "sha256": "dd7ec9bdb56ea72027d6012fbe43acbc3b0a1f28d658ca92fd5dbcf46d2ed89f",
+      "collection": "spiderman",
+      "metadata": {
+        "duration": 10.132367,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "Our Spider-Man · video memory",
+      "poster": "assets/memories/memory-32-poster.jpg"
+    },
+    {
+      "id": "memory-33",
+      "type": "video",
+      "src": "assets/memories/video-33.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.15.mp4",
+      "bytes": 2942253,
+      "sha256": "dd7ec9bdb56ea72027d6012fbe43acbc3b0a1f28d658ca92fd5dbcf46d2ed89f",
+      "collection": "spiderman",
+      "metadata": {
+        "duration": 10.132367,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "Our Spider-Man · video memory",
+      "poster": "assets/memories/memory-33-poster.jpg",
+      "duplicate_of": "memory-32"
+    },
+    {
+      "id": "memory-34",
+      "type": "video",
+      "src": "assets/memories/video-34.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.17.mp4",
+      "bytes": 2158161,
+      "sha256": "be610b58b364b8954a204b068fb5461367c6f7d83af47bdb87f636218ddb318d",
+      "collection": "helmet",
+      "metadata": {
+        "duration": 7.141822,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "That little green helmet · video memory",
+      "poster": "assets/memories/memory-34-poster.jpg"
+    },
+    {
+      "id": "memory-35",
+      "type": "video",
+      "src": "assets/memories/video-35.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.32.mp4",
+      "bytes": 2232419,
+      "sha256": "8dc27a56be03fd8ba8f1dae1d942a0b2ce51ef1e7e0c7cc6203ef420f1b541d8",
+      "collection": "auto",
+      "metadata": {
+        "duration": 8.439556,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "Riding around together in an auto-rickshaw",
+      "poster": "assets/memories/memory-35-poster.jpg"
+    },
+    {
+      "id": "memory-36",
+      "type": "video",
+      "src": "assets/memories/video-36.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.33.mp4",
+      "bytes": 6478168,
+      "sha256": "c9d20e03f26154c5b960b891602f03deb9d4cf351a6174113564d071098ee7c4",
+      "collection": "evening",
+      "metadata": {
+        "duration": 23.321111,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "Our evening detours · video memory",
+      "poster": "assets/memories/memory-36-poster.jpg"
+    },
+    {
+      "id": "memory-37",
+      "type": "video",
+      "src": "assets/memories/video-37.mp4",
+      "original_filename": "WhatsApp Video 2026-11-24 at 21.29.34.mp4",
+      "bytes": 1570015,
+      "sha256": "524a636184c22103940767feacbb396e768022b36a9ecfe5160c4241310e4def",
+      "collection": "evening",
+      "metadata": {
+        "duration": 6.079422,
+        "width": 478,
+        "height": 850,
+        "audioTracks": true
+      },
+      "alt": "Our evening detours · video memory",
+      "poster": "assets/memories/memory-37-poster.jpg"
+    }
+  ],
+  "collections": [
+    {
+      "id": "sleepy",
+      "title": "Five more minutes",
+      "easter_egg": "Yellow blanket",
+      "scene": "Bedroom at 7 AM"
+    },
+    {
+      "id": "helmet",
+      "title": "That little green helmet",
+      "easter_egg": "Green helmet",
+      "scene": "Scooty / morning ride"
+    },
+    {
+      "id": "office",
+      "title": "Your first day",
+      "easter_egg": "Office backpack",
+      "scene": "Office drop-off"
+    },
+    {
+      "id": "waiwai",
+      "title": "Wai Wai dates",
+      "easter_egg": "Wai Wai chatpate bowl",
+      "scene": "Nepali food stop"
+    },
+    {
+      "id": "evening",
+      "title": "Nails & evening detours",
+      "easter_egg": "Nail extensions",
+      "scene": "Evening shopping"
+    },
+    {
+      "id": "together",
+      "title": "Just us",
+      "easter_egg": "Our little photo album",
+      "scene": "Between stops"
+    },
+    {
+      "id": "spiderman",
+      "title": "Our Spider-Man",
+      "easter_egg": "Spider-Man jacket",
+      "scene": "Movie detour"
+    },
+    {
+      "id": "fisheye",
+      "title": "My favourite fish-eye",
+      "easter_egg": "The camera above you",
+      "scene": "Funny top-down photos"
+    },
+    {
+      "id": "auto",
+      "title": "Us, in an auto",
+      "easter_egg": "Auto-rickshaw",
+      "scene": "Riding around together"
+    },
+    {
+      "id": "pool",
+      "title": "My little dolphin"
+    }
+  ],
+  "interaction": {
+    "discovery": "Scene objects unlock the associated memory collection.",
+    "library": "Discovered memories remain available for replay in the memory library.",
+    "persistence": "Store discovered collection IDs locally in the browser.",
+    "video_audio": "Pause background music while a memory video plays; restore only if music was previously playing.",
+    "controls": [
+      "Previous / next",
+      "Close",
+      "Video play / pause",
+      "Mute / volume",
+      "Keyboard navigation"
+    ]
+  },
+  "music": {
+    "tracks": [
+      {
+        "id": "track-01",
+        "src": "assets/music/soundtrack-01.m4a",
+        "title": "Our soundtrack · 01",
+        "original_filename": "BUMO-SUMO-snap-01.mp4",
+        "bytes": 2555966,
+        "status": "audio_extracted"
+      },
+      {
+        "id": "track-02",
+        "src": "assets/music/soundtrack-02.m4a",
+        "title": "Our soundtrack · 02",
+        "original_filename": "WhatsApp Video 2026-11-24 at 21.14.09.mp4",
+        "bytes": 1567746,
+        "status": "audio_extracted"
+      },
+      {
+        "id": "track-03",
+        "src": "assets/music/soundtrack-03.m4a",
+        "title": "Our soundtrack · 03",
+        "original_filename": "WhatsApp Video 2026-11-24 at 21.14.41.mp4",
+        "bytes": 1044285,
+        "status": "audio_extracted"
+      }
+    ],
+    "additional_tracks_expected": 0,
+    "start": "After an explicit start or play interaction",
+    "controls": [
+      "Play / pause",
+      "Mute",
+      "Volume",
+      "Track selection"
+    ],
+    "default_volume": 0.25,
+    "repeat": "playlist",
+    "repeat_modes": [
+      "playlist",
+      "track"
+    ]
+  }
+}

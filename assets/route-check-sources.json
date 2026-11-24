@@ -1,0 +1,27 @@
+{
+  "status": "Candidate only; vendor and onwardroute unconfirmed. Current game route unchanged.",
+  "candidateJunction": {
+    "lat": 12.9369075,
+    "lon": 77.6110193,
+    "road": "Someshwara Temple Road / Hosur Road"
+  },
+  "nextJunction": {
+    "lat": 12.9344551,
+    "lon": 77.6123658,
+    "road": "Ganapathi / 20th Main Road / Hosur Road"
+  },
+  "sourceLinks": [
+    {
+      "title": "OpenStreetMap: Someshwara Temple Road",
+      "url": "https://www.openstreetmap.org/way/27931906"
+    },
+    {
+      "title": "OpenStreetMap: 80 Feet Road, alternate name 20th Main Road",
+      "url": "https://www.openstreetmap.org/way/1357130528"
+    },
+    {
+      "title": "Karnataka government ward gazette: 20th Main Road (Ganapathi Temple Road)",
+      "url": "https://data.opencity.in/dataset/0e306495-0031-43b9-b7cb-e30ba37ce595/resource/4dc83877-63e1-481b-89fa-94f2e6436f29/download/9220.pdf"
+    }
+  ]
+}

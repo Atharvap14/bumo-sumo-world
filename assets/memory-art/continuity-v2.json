@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-11-25",
+  "edits": {
+    "momos": {
+      "output": "momos-v2.png",
+      "source": "momos-v1.png",
+      "prompt": "Use case: precise-object-edit. Edit target is the supplied illustrated memory page for a birthday game. Change only BUMO the woman’s denim shorts and sneakers into full-length loose gray trousers and burgundy shoes. Keep her navy-and-white striped shirt and glasses exactly as they are. Keep SUMO dark polo. Preserve the existing faces, character identities, ivory horns, poses, expressions, composition, backdrop, objects, illustration style, textured colors, lighting and landscape 3:2 framing. No text, no UI, no watermark."
+    },
+    "falooda": {
+      "output": "falooda-v2.png",
+      "source": "falooda-v1.png",
+      "prompt": "Use case: precise-object-edit. Edit target is the supplied illustrated memory page for a birthday game. Change only SUMO the man’s cream T-shirt into a charcoal-black short-sleeved polo. Replace the green open-face motorcycle helmet on the scooter seat with a small dark-green cap-shaped helmet: smooth round shallow dome, broad forward baseball-cap brim, black chin strap, small yellow shield decal. No ear-covering shell, no visor. Keep BUMO black dress. Preserve the existing faces, character identities, ivory horns, poses, expressions, composition, backdrop, objects, illustration style, textured colors, lighting and landscape 3:2 framing. No text, no UI, no watermark."
+    },
+    "comedy": {
+      "output": "comedy-v2.png",
+      "source": "comedy-v1.png",
+      "prompt": "Use case: precise-object-edit. Edit target is the supplied illustrated memory page for a birthday game. Change only SUMO the man’s cream T-shirt into a charcoal-black short-sleeved polo. Keep BUMO black dress. Preserve the existing faces, character identities, ivory horns, poses, expressions, composition, backdrop, objects, illustration style, textured colors, lighting and landscape 3:2 framing. No text, no UI, no watermark."
+    }
+  }
+}

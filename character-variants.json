@@ -1,0 +1,21 @@
+{
+  "bumo": {
+    "spider": {
+      "url": "assets/characters/bumo-spider-rigged-v1.glb"
+    },
+    "office": {
+      "url": "assets/characters/bumo-office-rigged-v1.glb"
+    },
+    "swim": {
+      "url": "assets/characters/bumo-swim-rigged-v1.glb"
+    },
+    "dinner": {
+      "url": "assets/characters/bumo-dinner-rigged-v1.glb"
+    }
+  },
+  "sumo": {
+    "swim": {
+      "url": "assets/characters/sumo-swim-rigged-v1.glb"
+    }
+  }
+}

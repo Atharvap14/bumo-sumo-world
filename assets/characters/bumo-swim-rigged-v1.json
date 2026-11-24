@@ -1,0 +1,310 @@
+{
+  "name": "bumo",
+  "height": 2.2,
+  "up": "+Y",
+  "forward": "+Z",
+  "rootAtGround": true,
+  "clips": {
+    "Idle": "loop",
+    "Walk": "loop",
+    "Sit": "loop",
+    "Wave": "loop or once"
+  },
+  "sittingHipHeight": 0.814,
+  "walkDuration": 0.9,
+  "walkRecommendedSpeed": 0.8962962962962964,
+  "bones": {
+    "Root": {
+      "head": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "tail": [
+        0.0,
+        0.22,
+        -0.0
+      ],
+      "parent": null
+    },
+    "Hips": {
+      "head": [
+        0.0,
+        1.034,
+        0.055
+      ],
+      "tail": [
+        0.0,
+        1.21,
+        0.099
+      ],
+      "parent": "Root"
+    },
+    "Spine": {
+      "head": [
+        0.0,
+        1.21,
+        0.099
+      ],
+      "tail": [
+        0.0,
+        1.408,
+        0.11
+      ],
+      "parent": "Hips"
+    },
+    "Chest": {
+      "head": [
+        0.0,
+        1.408,
+        0.11
+      ],
+      "tail": [
+        0.0,
+        1.562,
+        0.077
+      ],
+      "parent": "Spine"
+    },
+    "Neck": {
+      "head": [
+        0.0,
+        1.562,
+        0.077
+      ],
+      "tail": [
+        0.0,
+        1.672,
+        -0.0
+      ],
+      "parent": "Chest"
+    },
+    "Head": {
+      "head": [
+        0.0,
+        1.672,
+        -0.0
+      ],
+      "tail": [
+        0.0,
+        2.068,
+        -0.0
+      ],
+      "parent": "Neck"
+    },
+    "LeftShoulder": {
+      "head": [
+        0.077,
+        1.474,
+        0.099
+      ],
+      "tail": [
+        0.264,
+        1.474,
+        0.099
+      ],
+      "parent": "Chest"
+    },
+    "LeftUpperArm": {
+      "head": [
+        0.264,
+        1.474,
+        0.099
+      ],
+      "tail": [
+        0.451,
+        1.221,
+        0.055
+      ],
+      "parent": "LeftShoulder"
+    },
+    "LeftLowerArm": {
+      "head": [
+        0.451,
+        1.221,
+        0.055
+      ],
+      "tail": [
+        0.583,
+        1.023,
+        0.044
+      ],
+      "parent": "LeftUpperArm"
+    },
+    "LeftHand": {
+      "head": [
+        0.583,
+        1.023,
+        0.044
+      ],
+      "tail": [
+        0.627,
+        0.924,
+        0.055
+      ],
+      "parent": "LeftLowerArm"
+    },
+    "LeftUpperLeg": {
+      "head": [
+        0.143,
+        1.034,
+        0.055
+      ],
+      "tail": [
+        0.165,
+        0.561,
+        -0.011
+      ],
+      "parent": "Hips"
+    },
+    "LeftLowerLeg": {
+      "head": [
+        0.165,
+        0.561,
+        -0.011
+      ],
+      "tail": [
+        0.187,
+        0.165,
+        -0.0528
+      ],
+      "parent": "LeftUpperLeg"
+    },
+    "LeftFoot": {
+      "head": [
+        0.187,
+        0.165,
+        -0.0528
+      ],
+      "tail": [
+        0.187,
+        0.077,
+        0.132
+      ],
+      "parent": "LeftLowerLeg"
+    },
+    "LeftToe": {
+      "head": [
+        0.187,
+        0.077,
+        0.132
+      ],
+      "tail": [
+        0.187,
+        0.077,
+        0.209
+      ],
+      "parent": "LeftFoot"
+    },
+    "RightShoulder": {
+      "head": [
+        -0.077,
+        1.474,
+        0.099
+      ],
+      "tail": [
+        -0.264,
+        1.474,
+        0.099
+      ],
+      "parent": "Chest"
+    },
+    "RightUpperArm": {
+      "head": [
+        -0.264,
+        1.474,
+        0.099
+      ],
+      "tail": [
+        -0.451,
+        1.221,
+        0.055
+      ],
+      "parent": "RightShoulder"
+    },
+    "RightLowerArm": {
+      "head": [
+        -0.451,
+        1.221,
+        0.055
+      ],
+      "tail": [
+        -0.583,
+        1.023,
+        0.044
+      ],
+      "parent": "RightUpperArm"
+    },
+    "RightHand": {
+      "head": [
+        -0.583,
+        1.023,
+        0.044
+      ],
+      "tail": [
+        -0.627,
+        0.924,
+        0.055
+      ],
+      "parent": "RightLowerArm"
+    },
+    "RightUpperLeg": {
+      "head": [
+        -0.143,
+        1.034,
+        0.055
+      ],
+      "tail": [
+        -0.165,
+        0.561,
+        -0.011
+      ],
+      "parent": "Hips"
+    },
+    "RightLowerLeg": {
+      "head": [
+        -0.165,
+        0.561,
+        -0.011
+      ],
+      "tail": [
+        -0.187,
+        0.165,
+        -0.0528
+      ],
+      "parent": "RightUpperLeg"
+    },
+    "RightFoot": {
+      "head": [
+        -0.187,
+        0.165,
+        -0.0528
+      ],
+      "tail": [
+        -0.187,
+        0.077,
+        0.132
+      ],
+      "parent": "RightLowerLeg"
+    },
+    "RightToe": {
+      "head": [
+        -0.187,
+        0.077,
+        0.132
+      ],
+      "tail": [
+        -0.187,
+        0.077,
+        0.209
+      ],
+      "parent": "RightFoot"
+    }
+  },
+  "source": "/Users/atharvapandey/Documents/ChatGPT/Project 3000/bumo-sumo/experience/character-variants/bumo-swim-v1.glb",
+  "output": "/Users/atharvapandey/Documents/ChatGPT/Project 3000/bumo-sumo/experience/dist/assets/characters/bumo-swim-rigged-v1.glb",
+  "variant": "bumo-swim-rigged-v1",
+  "reviewDirectory": "/Users/atharvapandey/Documents/ChatGPT/Project 3000/bumo-sumo/experience/character-variants/rig-builds/bumo-swim-rigged-v1/review/rig",
+  "headGraft": false,
+  "continuousSkirtWeights": false
+}

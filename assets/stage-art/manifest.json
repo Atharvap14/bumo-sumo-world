@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "tool": "built-in image_gen",
+  "purpose": "2D painted background plates behind real 3D characters",
+  "coordinates": {
+    "camera": "side-on",
+    "walkingLane": "clear horizontal lower quarter to third",
+    "characterFeetSuggestedScreenY": 0.86
+  },
+  "notes": [
+    "Illustrated memory interpretations; not surveyed reconstructions.",
+    "No baked-in characters or foreground vehicles.",
+    "Home is ground-floor courtyard view; upper building continues beyond crop."
+  ],
+  "assets": [
+    {
+      "id": "home",
+      "url": "./assets/stage-art/home-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-1c5dac1f-2f37-4e05-a5a3-7b871e47d341.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Bangalore seven-floor apartment seen from inner ground-floor courtyard, tall mint ivory and terracotta residential facade above, balcony railings, warm lived-in plaster, ground floor corner flat entrances, a small lush green lawn patch mid-left BEHIND the walking strip, potted tropical plants tucked by entrances, right side passage opening. Gentle golden morning sunlight, blue cool shadows, intimate welcoming home."
+    },
+    {
+      "id": "coconut",
+      "url": "./assets/stage-art/coconut-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-9bf9a4ab-a2de-49f3-87f8-81d8942804b7.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Leafy Bangalore Koramangala residential street, overarching rain-tree canopy, tropical foliage, textured cream compound walls and glimpses of coral apartments. On background right, a small green coconut vendor cart piled with green tender coconuts and a striped canvas shade, completely behind the foreground walking strip. No vendor. Early golden morning light, dappled blue-green shadows, fresh peaceful mood."
+    },
+    {
+      "id": "office",
+      "url": "./assets/stage-art/office-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-3d803f3a-e2b6-4d42-b335-5e9acc0fb292.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Modern Bangalore office entrance as a side-on storybook set. Tall reflective charcoal glass facade with tree reflections, warm gray stone cladding, a recessed glass double-door entrance, shallow steps only behind foreground walking lane, big tropical planters and a compact security booth off to one side. Warm morning sunlight, blue reflections, small green foliage accents, professional but affectionate detailed atmosphere."
+    },
+    {
+      "id": "momos",
+      "url": "./assets/stage-art/momos-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-7007b016-a332-4c56-baff-e4160b218826.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Bangalore evening momo street stall as side-on storybook stage. An orange and emerald awning above a small stainless momo steamer cart in background, delicate curls of steam, stacks of bamboo steamers, sauce jars, distant layered shopfronts and electric wires, colorful warm lamps against blue-green dusk. All stall props behind completely clear foreground sidewalk. No people."
+    },
+    {
+      "id": "nails",
+      "url": "./assets/stage-art/nails-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-b949f9c5-12fc-47c7-b1b9-b898a56c0249.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Small Bangalore nail-extension salon exterior with pastel coral-pink canopy, welcoming warm lit window, tiny tasteful display of nail polish bottles and illustrated manicure color swatches inside the window, cream plaster and mint door trim, decorative vines. Blue evening street shadows, soft amber and pink glow. Side-on entrance behind clear foreground pavement, no people, no readable text."
+    },
+    {
+      "id": "falooda",
+      "url": "./assets/stage-art/falooda-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-87ff8003-af4d-4b9e-bf4b-7e6e7584125e.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Cozy falooda stall at the end of a Bangalore street at night, rose-pink and pale pistachio storefront, a glass counter behind the walking strip showing tall layered falooda glasses with rose syrup, cream and little garnishes, warm hanging bulbs and brass details, cobalt teal evening rooftops and plant silhouettes. Romantic rich painted color, clear foreground pavement."
+    },
+    {
+      "id": "waiwai",
+      "url": "./assets/stage-art/waiwai-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-5f286332-cc3b-463b-94ce-b40c7d827f37.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Nepali restaurant entrance in Bangalore, a mint green doorway in terracotta brick walls, painted small Himalayan floral ornaments around the frame, brass pots near door, pink magenta bougainvillea cascading from upper right and a tall white planter behind the walking strip. Warm interior amber lamps and prayer flags visible inside. Wai wai snack bowls on a tiny window counter. Lush evening gouache, no writing, no people."
+    },
+    {
+      "id": "pool",
+      "url": "./assets/stage-art/pool-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-b590b610-81ed-4c8c-a8b2-a845408a6cb4.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Public swimming pool in Bangalore, brilliant turquoise blue water in middle background behind a low pale metal safety railing, cream and blue tiled pool edge, shade trees, low changing room wall and warm sunlight reflecting across water. Foreground bottom30% is continuous dry level pale-blue tiled walking strip, no obstacles. Clear sunny daylight, saturated cool turquoise with warm cream highlights."
+    },
+    {
+      "id": "comedy",
+      "url": "./assets/stage-art/comedy-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-7af8468e-b026-456f-b879-5b38f9b6c291.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Intimate stand-up comedy venue, velvety plum burgundy curtains behind a low wooden stage, one slim microphone on stand in background center-right, warm golden cone spotlights, deep teal shadowed side walls, small ceiling lamps. Stage occupies background only; foreground bottom30% is empty continuous level warm wooden walking floor. Cozy funny date-night atmosphere, richly painted tactile curtains, no audience or people."
+    },
+    {
+      "id": "cinema",
+      "url": "./assets/stage-art/cinema-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-38824c02-7d4f-4779-92ad-b5acc0055e45.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Comic-inspired Bangalore cinema entrance at evening, red black and gold facade, large warm illuminated marquee with blank panels and no text, decorative geometric comic lightning shapes, ticket window and glass doors behind foreground lane, subtle teal wall accents, golden bulbs, theatrical warm glow. All architecture behind completely empty continuous foreground sidewalk. No superheroes, figures, logos or vehicles."
+    },
+    {
+      "id": "auto",
+      "url": "./assets/stage-art/auto-v1.png",
+      "source": "/Users/atharvapandey/.codex/generated_images/01a20e8b-6624-71f0-902d-60cd284de1d0/exec-390ac3ff-225e-4de8-8615-f5ed9378ba43.png",
+      "prompt": "Use case: illustration-story. Asset type: finished 2D background plate for a side-on narrative platformer with separately rendered 3D characters. Generate ONE wide 16:9 landscape illustration, very high quality crisp detailed hand-painted anime/gouache scenery, tactile paper grain, precise ink edges, lush teal/coral/gold palette. Camera fixed side-on theatrical elevation with gentle depth, level horizontal ground, NOT isometric, NOT 3D render, NOT pixel art. Bottom 30% must be a completely unobstructed continuous level walking strip spanning edge to edge, subdued textured paving, no props/steps/grass over walking lane. Scene objects stay behind the strip. No characters, people, silhouettes, foreground vehicles, text, logos, UI, frames or borders. Scene: Bangalore leafy residential street in early morning, ivory apartment gates and mint compound walls, layered terracotta residences behind lush rain trees, bright yellow and emerald accents on gates and curbside shop awnings, overhead wires and sun-dappled foliage. Empty continuous paved foreground walking lane for a separate 3D auto-rickshaw asset to be added later. NO vehicles in generated image, no people. Warm golden sun, cool teal shadows."
+    }
+  ]
+}

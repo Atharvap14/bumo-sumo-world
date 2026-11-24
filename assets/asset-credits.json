@@ -1,0 +1,41 @@
+[
+  {
+    "asset": "modular_urban_apartments_facade",
+    "url": "https://polyhaven.com/a/modular_urban_apartments_facade",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "exterior_aircon_unit",
+    "url": "https://polyhaven.com/a/exterior_aircon_unit",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "jacaranda_tree",
+    "url": "https://polyhaven.com/a/jacaranda_tree",
+    "license": "CC0",
+    "resolution": "1k",
+    "use": "Simplified broadleaf street tree. Appearance reference, not a survey of local tree species.",
+    "originalTriangles": 3863832,
+    "runtimeTriangles": 57841,
+    "runtimeFile": "architecture/jacaranda-tree.glb"
+  },
+  {
+    "asset": "rollershutter_door",
+    "url": "https://polyhaven.com/a/rollershutter_door",
+    "license": "CC0",
+    "resolution": "1k"
+  },
+  {
+    "asset": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+    "url": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "authors": [
+      "Greg Zaal",
+      "Jarod Guest"
+    ],
+    "license": "CC0",
+    "resolution": "2k",
+    "use": "Lighting reference, not captured in Bangalore"
+  }
+]
